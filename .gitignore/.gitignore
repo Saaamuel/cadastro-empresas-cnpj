@@ -1,0 +1,16 @@
+# Compilação
+bin/
+obj/
+
+# Banco local
+*.db
+*.sqlite
+
+# Configurações locais
+.vscode/
+.env
+appsettings.Development.json
+appsettings.Local.json
+
+# Logs
+*.log
